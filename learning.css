@@ -1,0 +1,7 @@
+/**Table Styling**/
+  table,th,td{
+  	border: solid 1px;
+  	text-align: center;
+  	background-color: black;
+  	color: black;
+  }
